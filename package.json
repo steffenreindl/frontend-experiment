@@ -1,0 +1,9 @@
+{
+        "name": "ts-experiment",
+        "private": true, 
+        "workspaces": [
+                "frontend/",
+                "backend/"
+        ]
+
+}
